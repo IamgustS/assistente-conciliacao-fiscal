@@ -1,0 +1,2 @@
+﻿id;arquivo_origem;razao_social;nome_fantasia;cnpj_cpf;data_emissao;hora_emissao;numero_documento;tipo_documento;subtotal_itens;desconto;acrescimo_taxas;impostos_estimados;valor_total;forma_pagamento;categoria;status_conciliacao;diferenca_conciliacao;cnpj_valido;detalhes_conciliacao;criado_em
+2;recibo_posto_conciliado.png;POSTO E CONVENIENCIA ESTRELA LTDA;Auto Posto Estrela Shell;11.222.333/0001-81;2026-05-18;14:32:10;000142980;NFC-e;205.2;5.2;0.0;42.3;200.0;Cartão de Crédito;Transporte & Combustível;CONCILIADO;0.0;1;[];2026-11-06 17:12:38
